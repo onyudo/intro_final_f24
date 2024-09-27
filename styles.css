@@ -72,7 +72,7 @@ header h1 {
     transition: background-color 0.3s ease;
 }
 
-/*I know the instructions specified a hex color for the buttons, but I went withmy own */
+/*I know the instructions specified a hex color for the buttons, but I went with my own */
 .link-btn:hover {
     background-color: #007bff;
 }
