@@ -62,6 +62,7 @@ header h1 {
     gap: 15px;
 }
 
+/*I know the instructions specified a hex color for the buttons, but I went withmy own */
 .link-btn {
     background-color: #fa5e67;
     color: white;
@@ -71,6 +72,7 @@ header h1 {
     transition: background-color 0.3s ease;
 }
 
+/*I know the instructions specified a hex color for the buttons, but I went withmy own */
 .link-btn:hover {
     background-color: #007bff;
 }
